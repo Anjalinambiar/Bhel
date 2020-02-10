@@ -1,6 +1,11 @@
-public class Bhelcontainer {
-    public void Addqty(String n1, int n2){
-        System.out.println("added");
+public class Bhelcontainer
+{
+ public void Addqty(String n1, int n2){
+        System.out.println(n1+"-"+n2);
+        
+    }
+  public void MixBhel(String n1, int n2){
+        System.out.println(n1+"-"+n2);
         
     }
 }
